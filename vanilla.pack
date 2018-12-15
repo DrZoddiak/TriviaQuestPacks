@@ -4,222 +4,222 @@ trivia {
             choices=["cr_ep_r","_re_p_r"]
             word="creeper"
         }
-		Entity-zombie {
-			choices=["z__b_e","_o_bi_","z_m__e"]
-			word="zombie"
-		}
-		Entity-Pigman {
-			choices=["p_g__n","__gm_n"]
-			word="pigman"
-		}
-		Entity-Squid {
-			choices=["sq__d","__ui_","_qu_d"]
-			word="squid"
-		}
-		Entity-EnderDragon {
-			choices=["E_de_ D__g_n","__der D_a__n"]
-			word="Ender Dragon"
-		}
-		Entity-Enderman {
-			choices=["__de_m_n","_n_er_a_","e__er_an"]
-			word="Enderman"
-		}
-		Block-Cobblestone {
-			choices=["c__bl_st_n_","_obb__s_o_e","_o_b_esto__"]
-			word="cobblestone"
-		}
-		Block-Dirt {
-			choices=["_i_t","d_r_","d__t"]
-			word="dirt"
-		}
-		Block-Wood-Planks {
-			choices=["__k _o_d Pl__ks","Oa_ __od p__nk_","O_k w__d _la_ks"]
-			word="Oak wood planks"
-		}
-		Block-Moss-Stone {
-			choices=["M__s Sto__","_o_s S_on_"]
-			word="Moss Stone"
-		}
-		Block-Granite {
-			choices=["_r_ni_e","G_a_it_","G_an__e"]
-			word="Granite"
-		}
-		Block-Stone {
-			choices=["S__n_","_to_e","_t_ne"]
-			word="Stone"
-		}
-		Block-Chest {
-			choices=["O_k Che__","_a_ C_est","O__ Ch__t"]
-			word="Oak Chest"
-		}
-		Block-Quartz {
-			choices=["__o_k of Q_art_","_loc_ o_ _ua_t_","_l__k of _uar_z"]
-			word="Block of Quartz"
-		}
+        Entity-zombie {
+            choices=["z__b_e","_o_bi_","z_m__e"]
+            word="zombie"
+        }
+        Entity-Pigman {
+            choices=["p_g__n","__gm_n"]
+            word="pigman"
+        }
+        Entity-Squid {
+            choices=["sq__d","__ui_","_qu_d"]
+            word="squid"
+        }
+        Entity-EnderDragon {
+            choices=["E_de_ D__g_n","__der D_a__n"]
+            word="Ender Dragon"
+        }
+        Entity-Enderman {
+            choices=["__de_m_n","_n_er_a_","e__er_an"]
+            word="Enderman"
+        }
+        Block-Cobblestone {
+            choices=["c__bl_st_n_","_obb__s_o_e","_o_b_esto__"]
+            word="cobblestone"
+        }
+        Block-Dirt {
+            choices=["_i_t","d_r_","d__t"]
+            word="dirt"
+        }
+        Block-Wood-Planks {
+            choices=["__k _o_d Pl__ks","Oa_ __od p__nk_","O_k w__d _la_ks"]
+            word="Oak wood planks"
+        }
+        Block-Moss-Stone {
+            choices=["M__s Sto__","_o_s S_on_"]
+            word="Moss Stone"
+        }
+        Block-Granite {
+            choices=["_r_ni_e","G_a_it_","G_an__e"]
+            word="Granite"
+        }
+        Block-Stone {
+            choices=["S__n_","_to_e","_t_ne"]
+            word="Stone"
+        }
+        Block-Chest {
+            choices=["O_k Che__","_a_ C_est","O__ Ch__t"]
+            word="Oak Chest"
+        }
+        Block-Quartz {
+            choices=["__o_k of Q_art_","_loc_ o_ _ua_t_","_l__k of _uar_z"]
+            word="Block of Quartz"
+        }
     }
     questions {
         Developer-MC {
             answers=["Notch", "Markus", "Markus persson"]
             question="Who is the creator of Minecraft?"
         }
-		Item-Bucket-Craft {
-			answers=["3", "Three", "Three Ingots", "3 ingots"]
-			question="How many iron ingots does it take to craft a bucket?"
-		}
-		Block-Explosive-Bed {
-			answers=["Bed","Beds"]
-			question="What block automatically explodes if used in The End"
-		}
-		Enchant-No-Silktouch {
-			answers=["Infested Block","Grass Path","Farmland","Double Slab","Cake","Monster Spawner"]
-			question="What is one block that cannot be silk-touched?"
-		}
-		Block-Gravity {
-			answers=["Sand","Gravel"]
-			question="Name one block that is affected by gravity."
-		}
-		Item-Flint-and-steel{
-			answers=["65","Sixty-five","sixty five","65 times","Sixty-five times","sixty five times"]
-			question="How many times can you use flint and steel before it breaks?"
-		}
-		Food-Apple-Fill {
-			answers=["two","2","two bars","2 bars"]
-			question="How many food bars does an apple fill?"
-		}
-		Entity-Creeper-Mistake {
-			answers=["pig","a pig"]
-			question="The creeper's shape was based on a mistake, but what was Notch trying to make at the time?"
-		}
-		Sound-Ghast {
-			answers=["cat","his cat","a cat"]
-			question="What did C418 use for Ghast sounds?"
-		}
-		Entity-Pig-Lightning{
-			answers=["Zombie Pigman","Pigman"]
-			question="What does a pig become if it is struck by lightning"
-		}
-		World-Time-Cycle {
-			answers=["20 minutes","Twenty minutes"]
-			question="How long is the Minecraft Day/Night cycle in real time?"
-		}
-		Entity-Creeper-Explode {
-			answers=["Creeper","Creepers"]
-			question="What is the mob that explodes?"
-		}
-		Entity-Steve-Skin {
-			answers=["Steve"]
-			question="What is the name of the default skin?"
-		}
-		Developer-Sound {
-			answers=["C418"]
-			question="What is the name of the music artist for Minecraft?"
-		}
-		Entity-Herobrine-Mythical {
-			answers=["Herobrine"]
-			question="What is the name of the mythical character in Minecraft?"
-		}
-		Entity-Enderman-Weak {
-			answers=["Water"]
-			question="What is an Enderman's weakness?"
-		}
-		Entity-Sheep-Dye {
-			answers=["True","Yes"]
-			question="Can you dye sheep?"
-		}
-		Entity-Creeper-Legs {
-			answers=["4","four","4 legs","Four legs"]
-			question="How many legs does a Creeper have?"
-		}
-		Entity-Boss-Amount {
-			answers=["EnderDragon","Ender-Dragon","Ender Dragon","Wither"]
-			question="Name one of the two bosses."
-		}
-		Food-Cake-Bites {
-			answers=["Seven","7"]
-			question="How many bites can you take out of a cake?"
-		}
-		Entity-Enderman-Eyes {
-			answers=["Purple"]
-			question="What color are Enderman eyes?"
-		}
-		Entity-Wolf-Tame {
-			answers=["Bones","Bone"]
-			question="What item is used to tame Wolves?"
-		}
-		Item-Disc-Amount {
-			answers=["12","Twelve"]
-			question="How many music discs are there?"
-		}
-		Entity-Silverfish-Hide {
-			answers=["Stone","Stone Blocks"]
-			question="Where do silverfish hide?"
-		}
-		Entity-Removed {
-			answers=["Black Steve","Beast boy","Human","Rana","Steve"]
-			question="Name one mob that was removed from the game."
-		}
-		Item-Pig-Lure {
-			answers=["carrot","A carrot","Carrots"]
-			question="What item on a fishing pole can be used to lure a pig?"
-		}
-		Item-Diamond-Set {
-			answers=["24","twenty four","twenty-four"]
-			question="How many diamonds does it take to make a full set of armor?"
-		}
-		World-Emerald-Biome {
-			answers=["Mountains","Mountain"]
-			question="What biome does Emerald Ore spawn in?"
-		}
+        Item-Bucket-Craft {
+            answers=["3", "Three", "Three Ingots", "3 ingots"]
+            question="How many iron ingots does it take to craft a bucket?"
+        }
+        Block-Explosive-Bed {
+            answers=["Bed","Beds"]
+            question="What block automatically explodes if used in The End"
+        }
+        Enchant-No-Silktouch {
+            answers=["Infested Block","Grass Path","Farmland","Double Slab","Cake","Monster Spawner"]
+            question="What is one block that cannot be silk-touched?"
+        }
+        Block-Gravity {
+            answers=["Sand","Gravel"]
+            question="Name one block that is affected by gravity."
+        }
+        Item-Flint-and-steel{
+            answers=["65","Sixty-five","sixty five","65 times","Sixty-five times","sixty five times"]
+            question="How many times can you use flint and steel before it breaks?"
+        }
+        Food-Apple-Fill {
+            answers=["two","2","two bars","2 bars"]
+            question="How many food bars does an apple fill?"
+        }
+        Entity-Creeper-Mistake {
+            answers=["pig","a pig"]
+            question="The creeper's shape was based on a mistake, but what was Notch trying to make at the time?"
+        }
+        Sound-Ghast {
+            answers=["cat","his cat","a cat"]
+            question="What did C418 use for Ghast sounds?"
+        }
+        Entity-Pig-Lightning{
+            answers=["Zombie Pigman","Pigman"]
+            question="What does a pig become if it is struck by lightning"
+        }
+        World-Time-Cycle {
+            answers=["20 minutes","Twenty minutes"]
+            question="How long is the Minecraft Day/Night cycle in real time?"
+        }
+        Entity-Creeper-Explode {
+            answers=["Creeper","Creepers"]
+            question="What is the mob that explodes?"
+        }
+        Entity-Steve-Skin {
+            answers=["Steve"]
+            question="What is the name of the default skin?"
+        }
+        Developer-Sound {
+            answers=["C418"]
+            question="What is the name of the music artist for Minecraft?"
+        }
+        Entity-Herobrine-Mythical {
+            answers=["Herobrine"]
+            question="What is the name of the mythical character in Minecraft?"
+        }
+        Entity-Enderman-Weak {
+            answers=["Water"]
+            question="What is an Enderman's weakness?"
+        }
+        Entity-Sheep-Dye {
+            answers=["True","Yes"]
+            question="Can you dye sheep?"
+        }
+        Entity-Creeper-Legs {
+            answers=["4","four","4 legs","Four legs"]
+            question="How many legs does a Creeper have?"
+        }
+        Entity-Boss-Amount {
+            answers=["EnderDragon","Ender-Dragon","Ender Dragon","Wither"]
+            question="Name one of the two bosses."
+        }
+        Food-Cake-Bites {
+            answers=["Seven","7"]
+            question="How many bites can you take out of a cake?"
+        }
+        Entity-Enderman-Eyes {
+            answers=["Purple"]
+            question="What color are Enderman eyes?"
+        }
+        Entity-Wolf-Tame {
+            answers=["Bones","Bone"]
+            question="What item is used to tame Wolves?"
+        }
+        Item-Disc-Amount {
+            answers=["12","Twelve"]
+            question="How many music discs are there?"
+        }
+        Entity-Silverfish-Hide {
+            answers=["Stone","Stone Blocks"]
+            question="Where do silverfish hide?"
+        }
+        Entity-Removed {
+            answers=["Black Steve","Beast boy","Human","Rana","Steve"]
+            question="Name one mob that was removed from the game."
+        }
+        Item-Pig-Lure {
+            answers=["carrot","A carrot","Carrots"]
+            question="What item on a fishing pole can be used to lure a pig?"
+        }
+        Item-Diamond-Set {
+            answers=["24","twenty four","twenty-four"]
+            question="How many diamonds does it take to make a full set of armor?"
+        }
+        World-Emerald-Biome {
+            answers=["Mountains","Mountain"]
+            question="What biome does Emerald Ore spawn in?"
+        }
     }
     scrambles {
         Entity-Ghast {
             word="Ghast"
         }
-		Item-Pickaxe {
-			word="Pickaxe"
-		}
-		Entity-Creeper {
-			word="Creeper"
-		}
-		Item-Golden-Axe {
-			word="Golden Axe"
-		}
-		Block-Oak-Planks {
-			word="Oak Wood Planks"
-		}
-		Item-Rotten-Flesh {
-			word="Rotten Flesh"
-		}
-		Block-Cobblestone-Stairs {
-			word="Cobblestone Stairs"
-		}
-		Block-Dirt {
-			word="dirt"
-		}
-		Item-Iron-Helmet {
-			word="Iron Helmet"
-		}
-		Entity-Ender-Dragon {
-			word="Ender Dragon"
-		}
-		Entity-Enderman {
-			word="Enderman"
-		}
-		Block-Bookshelf {
-			word="Oak Bookshelf"
-		}
-		Block-Torch {
-			word="Torch"
-		}
-		Block-Dragon-Egg {
-			word="Dragon Egg"
-		}
-		Block-Hay-Bale {
-			word="Hay bale"
-		}
-		Block-Sea-Lantern {
-			word="Sea Lantern"
-		}
-		
+        Item-Pickaxe {
+            word="Pickaxe"
+        }
+        Entity-Creeper {
+            word="Creeper"
+        }
+        Item-Golden-Axe {
+            word="Golden Axe"
+        }
+        Block-Oak-Planks {
+            word="Oak Wood Planks"
+        }
+        Item-Rotten-Flesh {
+            word="Rotten Flesh"
+        }
+        Block-Cobblestone-Stairs {
+            word="Cobblestone Stairs"
+        }
+        Block-Dirt {
+            word="dirt"
+        }
+        Item-Iron-Helmet {
+            word="Iron Helmet"
+        }
+        Entity-Ender-Dragon {
+            word="Ender Dragon"
+        }
+        Entity-Enderman {
+            word="Enderman"
+        }
+        Block-Bookshelf {
+            word="Oak Bookshelf"
+        }
+        Block-Torch {
+            word="Torch"
+        }
+        Block-Dragon-Egg {
+            word="Dragon Egg"
+        }
+        Block-Hay-Bale {
+            word="Hay bale"
+        }
+        Block-Sea-Lantern {
+            word="Sea Lantern"
+        }
+        
     }
 }
