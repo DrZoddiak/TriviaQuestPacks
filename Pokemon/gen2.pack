@@ -1,0 +1,404 @@
+trivia {
+    questions {
+        Aipom {
+            answers=["Aipom"]
+            question="This monkey-like Pokémon has a three-fingered hand at the end of its tail. It uses its powerful tail freely and cleverly for many purposes."
+        }
+        Ampharos {
+            answers=["Ampharos"]
+            question="This Pokémon has conical ears with black stripes and a red orb on its forehead.It has a long, black-striped tail with a red orb at the tip. The orb on its tail can shine so bright,that people have used the light as a beacon, or to send signals across the ocean."
+        }
+        Ariados {
+            answers=["Ariados"]
+            question=" This Pokémon resembles a spider. It has a red body with black stripes and markings on its rear that form a face. Rather than making a nest in one specific spot, it wanders to hunt aggressively after darkness falls. It will attach silk to its prey and set it free. Later, it tracks the silk to the prey and its friends."
+        }
+        Azumarill {
+            answers=["Azumarill"]
+            question="This Pokémon's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers. The bubble-like pattern on its stomach helps it camouflage itself when it's in the water."
+        }
+        Bayleef {
+            answers=["Bayleef"]
+            question="This Pokémon resembles a pale yellow sauropod dinosaur or a lizard. A large leaf shaped like a scythe protrudes from its head. Curled leaf-like growths, stated to be buds with small tree shoots inside, sprout in a ring around its neck"
+        }
+        Bellossom {
+            answers=["Bellossom"]
+            question="This Pokémon gathers at times and appears to dance. They say that the dance is a ritual to summon the sun. When it dances, its petals rub together and make a pleasant ringing sound. "
+        }
+        Blissey {
+            answers=["Blissey"]
+            question="This Pokémon senses sadness with its fluffy coat of fur. If it does so, it will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face."
+        }
+        Celebi {
+            answers=["Celebi"]
+            question=" This Pokémon is a green fairy-like creature. When it disappears deep in a forest, it is said to leave behind an egg it brought from the future. Grass and trees flourish in the forests in which it has appeared."
+        }
+        Chikorita {
+            answers=["Chikorita"]
+            question="This Pokémon has a sweet aroma that gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays. In battle, it waves its leaf around to keep the foe at bay."
+        }
+        Chinchou {
+            answers=["Chinchou"]
+            question="This blue fish-like Pokémon has a pair of tiny white fins and two small blue feet. Its two antennas are filled with cells that generate strong electricity. This Pokémon's cells create so much electrical power, it even makes itself tingle slightly. "
+        }
+        Cleffa {
+            answers=["Cleffa"]
+            question="This Pokémon is pink and vaguely star-shaped in appearance. On nights with many shooting stars, it can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.  "
+        }
+        Corsola {
+            answers=["Corsola"]
+            question="This Pokémon's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water. "
+        }
+        Crobat {
+            answers=["Crobat"]
+            question="This purple bat-like Pokémon sneaks up on its intended prey using wings that barely make a sound. It rests by hanging on a tree branch with its rear legs that serve as wings. Having four wings enables it to fly faster then any other of its kind."
+        }
+        Croconaw {
+            answers=["Croconaw"]
+            question="Once this blue crocodilian has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in."
+        }
+        Cyndaquil {
+            answers=["Cyndaquil"]
+            question="This Fire Mouse-like Pokémon is a timid creature that often curls up into a ball. When threatened, it flares up the flames on its back to scare off enemies. When it's angry, it can produce powerful flames, but when it's tired, it has trouble producing fire and suffers from incomplete combustion."
+        }
+        Delibird {
+            answers=["Delibird"]
+            question="This red penguin-like Pokémon carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these Pokémon sharing its food."
+        }
+        Donphan {
+            answers=["Donphan"]
+            question="This elephant-like Pokémon's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can't stop very easily."
+        }
+        Diglett {
+            answers=["Diglett"]
+            question="This serpentine-like Pokémon has a drill for its tail. It uses this tail to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground."
+        }
+        Elekid {
+            answers=["Elekid"]
+            question="This Pokémon stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself."
+        }
+        Entei {
+            answers=["Entei"]
+            question="This Pokémon is one of the Legendary beasts.It embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches."
+        }
+        Espeon {
+            answers=["Espeon"]
+            question="This Pokémon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.Its fur has the look and feel of velvet. The orb on its forehead glows when it uses psycho-power."
+        }
+        Feraligatr {
+            answers=["Feraligatr"]
+            question="This big crocodilian Pokémon opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed."
+        }
+        Flaaffy {
+            answers=["Flaaffy"]
+            question="This Pokémon's wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity."
+        }
+        Forretress {
+            answers=["Forretress"]
+            question="This Pokémon conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen."
+        }
+        Furret {
+            answers=["Furret"]
+            question="This Pokémon has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.There is no telling where the tail begins. Despite its short legs, it is quick and likes to chase Rattata. "
+        }
+        Girafarig {
+            answers=["Girafarig"]
+            question="This Pokémon has a long neck. Its head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite."
+        }
+        Gligar {
+            answers=["Gligar"]
+            question="This Pokémon bat-like Pokémon glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb."
+        }
+        Granbull {
+            answers=["Granbull"]
+            question="This dog-like Pokémon has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately."
+        }
+        Heracross {
+            answers=["Heracross"]
+            question="This Pokémon gathers in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes. It has sharp claws on its feet. These are planted firmly into the ground or the bark of a tree"
+        }
+        Hitmontop {
+            answers=["Hitmontop"]
+            question="This Pokémon spins on its head at high speeds, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking."
+        }
+        Ho-Oh {
+            answers=["Ho-Oh"]
+            question="This Pokémon is one of the Legendary beasts, also known as guardian of the skies. Its feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.  "
+        }
+        Hoothoot {
+            answers=["Hoothoot"]
+            question="This Pokémon has an internal organ that senses the earth's rotation. Using this special organ, It begins hooting at precisely the same time every day. It always stands on one foot. Even when attacked, it does not brace itself using both feet."
+        }
+        Hoppip {
+            answers=["Hoppip"]
+            question="This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, it links its leaves with other others of its kind to prepare against being blown away. It is said that when this Pokémon gather in fields and mountains, spring is on the way"
+        }
+        Houndoom {
+            answers=["Houndoom"]
+            question="This canine Pokémon spews flames mixed with poison to finish off their opponents. They divvy up their prey evenly among the members of their pack. Long ago, people imagined its eerie howls to be the call of the grim reaper."
+        }
+        Houndour {
+            answers=["Houndour"]
+            question="This canine Pokémon communicates with others of its kind using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is simply unparalleled. Around dawn, its ominous howl echoes through the area to announce that this is its territory."
+        }
+        Igglybuff {
+            answers=["Igglybuff"]
+            question="This Pokémon has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes. It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little. "
+        }
+        Jumpluff {
+            answers=["Jumpluff"]
+            question="This Pokémon rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating. It deftly controls its cotton-puff spores to float, even around the world."
+        }
+        Kingdra {
+            answers=["Kingdra"]
+            question="This Pokémon has a tightly curled tail. It is covered in blue scales except for its yellow, compact belly scales. It lives at extreme ocean depths that are otherwise uninhabited. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships."
+        }
+        Lanturn {
+            answers=["Lanturn"]
+            question="This Pokémon is nicknamed the deep-sea star for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna. When in combat It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp."
+        }
+        Larvitar {
+            answers=["Larvitar"]
+            question="This Pokémon is a small, green reptilian Pokémon with rocky skin. It is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parent's face."
+        }
+        Ledian {
+            answers=["Ledian"]
+            question="This Pokémon sleeps in forests during the day. When the stars flicker in the night sky, it flutters about, scattering a glowing powder; considered a symbol of good luck. The star patterns on its back grow larger or smaller depending on the number of stars in the night sky."
+        }
+        Ledyba {
+            answers=["Ledyba"]
+            question="This Pokémon is similar to a red ladybug with a pattern of five black spots on its back. It secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. "
+        }
+        Lugia {
+            answers=["Lugia"]
+            question="This Pokémon is one Legendary birds, and also known as the guardian of the seas. Its wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea."
+        }
+        Magby {
+            answers=["Magby"]
+            question="This Pokémon state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames. It's small, but its body temperature is over 1,100 degrees F"
+        }
+        Magcargo {
+            answers=["Magcargo"]
+            question="This Pokémon’s body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog. Its shell is actually its skin that hardened as a result of cooling."
+        }
+        Mantine {
+            answers=["Mantine"]
+            question="On sunny days, schools of Pokémon can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides. Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed."
+        }
+        Mareep {
+            answers=["Mareep"]
+            question="This Pokémons fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows. Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week."
+        }
+        Marill {
+            answers=["Marill"]
+            question="This Pokémon is body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance. When fishing for food at the edge of a fast-running stream, it wraps its tail around the trunk of a tree. This Pokémon's tail is flexible and configured to stretch"
+        }
+        Meganium {
+            answers=["Meganium"]
+            question="The fragrance of this Pokémon's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit. Its breath has the power to revive dead grass and plants. It can make them healthy again."
+        }
+        Miltank {
+            answers=["Miltank"]
+            question="This Pokémon’s gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead. If it has just had a baby, the milk it produces contains much more nutrition than usual."
+        }
+        Misdreavus {
+            answers=["Misdreavus"]
+            question="This Pokémon frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition. It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions."
+        }
+        Murkrow {
+            answers=["Murkrow"]
+            question="This Pokémon was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women. It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost."
+        }
+        Natu {
+            answers=["Natu"]
+            question="This Pokémon is a tiny, mostly green bird Pokémon with a nearly spherical body, and accents of red, yellow and black. It cannot fly because its wings are not yet fully grown. If your eyes meet with this Pokémon's eyes, it will stare back intently at you. But if you move even slightly, it will hop away to safety."
+        }
+        Noctowl {
+            answers=["Noctowl"]
+            question="This Pokémon never fails at catching prey in darkness. This Pokémon owes its success to its superior vision that allows it to see in minimal light, and to its soft, supple wings that make no sound in flight. When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
+        }
+        Octillery {
+            answers=["Octillery"]
+            question="This Pokémon grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape. It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow."
+        }
+        Phanpy {
+            answers=["Phanpy"]
+            question="This Pokémon uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water. As a sign of affection, it bumps with its snout. However, it is so strong, it may send you flying."
+        }
+        Pichu {
+            answers=["Pichu"]
+            question="When Pokémon plays with others, it may short out electricity with another fellow, creating a shower of sparks. In that event, this Pokémon will begin crying, startled by the flash of sparks. Despite this Pokémon's cute appearance, those who want to live with one should prepare to be on the receiving end of its electric jolts."
+        }
+        Piloswine {
+            answers=["Piloswine"]
+            question="This Pokémon is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice. Because the long hair all over its body obscures its sight, it just keeps charging repeatedly."
+        }
+        Pineco {
+            answers=["Pineco"]
+            question="This Pokémon hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning. It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake."
+        }
+        Politoed {
+            answers=["Politoed"]
+            question="The curled hair on this Pokémon’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers. If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide."
+        }
+        Porygon2 {
+            answers=["Porygon2"]
+            question="This Pokémon was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own. Even though it doesn't die in the vacuum of space, it can't move around very well in zero gravity."
+        }
+        Pupitar {
+            answers=["Pupitar"]
+            question="This Pokémon creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable and it avoids damage even if it hits solid steel. It already has arms and legs under its solid shell."
+        }
+        Quagsire {
+            answers=["Quagsire"]
+            question="This Pokémon hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry. A dim-witted Pokémon. It doesn't care if it bumps its head into boats or rocks while swimming."
+        }
+        Quilava {
+            answers=["Quilava"]
+            question="This Pokémon keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foes with flames. This Pokémon is fully covered by nonflammable fur. It can withstand any kind of fire attack."
+        }
+        Qwilfish {
+            answers=["Qwilfish"]
+            question="Whenever This Pokémon sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging. When faced with a larger opponent, it swallows as much water as it can to match the opponent's size."
+        }
+        Raikou {
+            answers=["Raikou"]
+            question="This Pokémon is one of the Legendary beasts. It embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down. It is shown to be distrustful of humans, though it may form some friendship with those who help it"
+        }
+        Remoraid {
+            answers=["Remoraid"]
+            question="This Pokémon sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers. Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers."
+        }
+        Scizor {
+            answers=["Scizor"]
+            question="This Pokémon has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature. It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously."
+        }
+        Sentret {
+            answers=["Sentret"]
+            question="This Pokémon takes turns standing guard when it is time to sleep. The guard awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear. A very cautious Pokémon, it raises itself up using its tail to get a better view of its surroundings."
+        }
+        Shuckle {
+            answers=["Shuckle"]
+            question="This Pokémon quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice."
+        }
+        Skarmory {
+            answers=["Skarmory
+            question="This Pokémon is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges. After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns."
+        }
+        Skiploom {
+            answers=["Skiploom"]
+            question="This Pokémon flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer. It also floats in the air to get closer to the sun."
+        }
+        Mankey {
+            answers=["Mankey"]
+            question="This Pokémon undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off."
+        }
+        Slugma {
+            answers=["Slugma"]
+            question="This Pokémon does not have any blood in its body. Instead, intensely hot magma circulates throughout its body, carrying essential nutrients and oxygen to its organs. it slowly slithers around in a constant search for warm places."
+        }
+        Smeargle {
+            answers=["Smeargle"]
+            question="This Pokémon marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found. Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back."
+        }
+        Smoochum {
+            answers=["Smoochum"]
+            question=" This Pokémon actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty. It always rocks its head slowly backwards and forwards as if it is trying to kiss someone."
+        }
+        Sneasel {
+            answers=["Sneasel"]
+            question="This Pokémon scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away. It is extremely vicious and will not stop attacking until its foe is incapable of moving."
+        }
+        Snubbull {
+            answers=["Snubbull"]
+            question="By baring its fangs and making scary face, it sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee. It has an active, playful nature. Many women like to frolic with it because of its affectionate ways."
+        }
+        Spinarak {
+            answers=["Spinarak"]
+            question="The web spun by Pokémon can be considered its second nervous system. It is said that this Pokémon can determine what kind of prey is touching its web just by the tiny vibrations it feels through the web's strands. It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+        }
+        Stantler {
+            answers=["Stantler"]
+            question="This Pokémon magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers. The round balls found on the fallen antlers can be ground into a powder that aids in sleeping."
+        }
+        Steelix {
+            answers=["Steelix"]
+            question="This Pokémon lives even further underground than Onix. This Pokémon is known to dig towards the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground. It is thought its body transformed as a result of iron accumulating internally from swallowing soil."
+        }
+        Sudowoodo {
+            answers=["Sudowoodo"]
+            question="This Pokémon camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter. Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water."
+        }
+        Suicune {
+            answers=["Suicune"]
+            question="This Pokémon is one of the Legendary beasts. It embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water. This divine Pokémon blows around the world, always in search of a pure reservoir. "
+        }
+        Sunflora {
+            answers=["Sunflora"]
+            question="This Pokémon converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night. As the hot season approaches, the petals on this Pokémon's face become more vivid and lively."
+        }
+        Sunkern { 
+            answers=["Sunkern"]
+            question="This Pokémon tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew. It is very weak. Its only means of defense is to shake its leaves desperately at its attacker."
+        }
+        Swinub {
+            answers=["Swinub"]
+            question="When This Pokémon roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs. If it smells something enticing, it dashes headlong off to find the source of the aroma."
+        }
+        Teddiursa {
+            answers=["Teddiursa"]
+            question="This Pokémon likes to lick its palms that are sweetened by being soaked in honey. It concocts its own honey by blending fruits and pollen collected by Beedrill. Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+        }
+        Togepi {
+            answers=["Togepi"]
+            question="As its energy, this pokémon uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others. It is considered to be a symbol of good luck."
+        }
+        Togetic {
+            answers=["Togetic"]
+            question="This pokémon is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person. Although it does not flap its wings very much, it can stay up in the air as it tags along after its trainer."
+        }
+        Totodile {
+            answers=["Totodile"]
+            question="Despite the smallness of its body, This Pokémon's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury. It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful."
+        }
+        Typhlosion {
+            answers=["Typhlosion"]
+            question="This Pokémon obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+        }
+        Tyranitar {
+            answers=["Tyranitar"]
+            question="This Pokémon is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight. If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+        }
+        Tyrogue {
+            answers=["Tyrogue"]
+            question="This Pokémon becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods. It is famous for its eagerness to fight and always nurses injuries from challenging larger foes."
+        }
+        Umbreon {
+            answers=["Umbreon"]
+            question="This Pokémon has evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack. When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores."
+        }
+        Unown {
+            answers=["Unown"]
+            question="This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various types of the Pokémon. Because different types of this Pokémon it is said that they must have a variety of abilities."
+        }
+        Pidgeot {
+            answers=["Pidgeot"]
+            question="In forests, it is said that there are many streams and towering trees where this pokémon gathers food. It walks through its forest collecting food every day. In its territory, it leaves scratches on trees that bear delicious berries or fruits."
+        }
+        Ursaring {
+            answers=["Ursaring"]
+            question="This Pokémon claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws."
+        }
+        Wobbuffet {
+            answers=["Wobbuffet"]
+            question="This Pokémon does nothing but endure attacks - it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond. It hates light and shock. If attacked, it inflates its body to build up its counterstrike."
+        }
+        Wooper {
+            answers=["Wooper"]
+            question="This Pokémon usually lives in water but comes out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film. Touching it barehanded will cause a shooting pain."
+        }
+        Xatu {
+            answers=["Xatu"]
+            question="This Pokémon stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future. It's said that while this Pokémon has the power to predict the future, it's not powerful enough to change the future it sees."
+        }
+    }
+}
